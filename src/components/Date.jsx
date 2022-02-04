@@ -77,7 +77,7 @@ export class Date extends Component {
         className={classNames({ 'form-builder-error': this.state.hasErrors })}
         disabled={!this.props.enabled}
         onChange={(e) => this.handleChange(e)}
-        type="date"
+        type="text"
         value={defaultValue}
       />
     );
