@@ -1,5 +1,5 @@
 {
-  "name": "bahmni-form-controls",
+  "name": "bagaja-form-controls",
   "version": "0.0.3",
   "description": "Repository for form controls",
   "license": "GPL-2.0",
@@ -89,5 +89,9 @@
     "react-textarea-autosize": "^4.0.5",
     "sinon-as-promised": "^4.0.3",
     "whatwg-fetch": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bagajab/form-controls"
   }
 }
