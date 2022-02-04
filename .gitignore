@@ -3,6 +3,5 @@
 .idea*
 coverage*
 node_modules*
-dist*
 npm-debug.log
 *.iml
